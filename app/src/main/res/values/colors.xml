@@ -7,5 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="negroTitulo">#000000</color>
     <color name="fondo_activities">#F3C98B</color>
+    <color name="fondo_edit_text">#DAA588</color>
+    <color name="salmon">#F56960</color>
+    <color name="notienescuenta">#C46D5E</color>
 </resources>

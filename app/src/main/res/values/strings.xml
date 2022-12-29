@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppRappi</string>
+    <string name="Iniciasesion">Inicia sesión</string>
+    <string name="NombreUsuario">Nombre de usuario:</string>
+    <string name="Contraseña">Constraseña:</string>
+    <string name="IniciarSesion">Iniciar sesión</string>
+    <string name="CeriOwl">CeriOwl</string>
+    <string name="asteriscos">**********</string>
+    <string name="MantenerSesion">Mantener Sesión</string>
+    <string name="NoTienesCuenta">¿No tienes cuenta? Regístrate</string>
 </resources>
